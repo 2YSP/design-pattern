@@ -1,4 +1,4 @@
-package cn.sp.statePattern;
+package cn.sp.state;
 
 /**
  * 监视器

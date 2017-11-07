@@ -1,4 +1,4 @@
-package cn.sp.proxyPattern;
+package cn.sp.proxy;
 
 import java.util.ArrayList;
 import java.util.List;

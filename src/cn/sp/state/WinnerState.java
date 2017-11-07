@@ -1,4 +1,4 @@
-package cn.sp.statePattern;
+package cn.sp.state;
 
 /**
  * Created by 2YSP on 2017/7/18.

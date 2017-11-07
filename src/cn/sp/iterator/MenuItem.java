@@ -1,4 +1,4 @@
-package cn.sp.iteratorPattern;
+package cn.sp.iterator;
 
 
 /**

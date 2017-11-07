@@ -1,4 +1,4 @@
-package cn.sp.proxyPattern;
+package cn.sp.proxy;
 
 /**
  * Created by 2YSP on 2017/9/1.
