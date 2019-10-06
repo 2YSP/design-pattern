@@ -7,5 +7,5 @@ public interface DisplayElement {
     /**
      * 布告板显示气象数据
      */
-    public void display();
+    void display();
 }
