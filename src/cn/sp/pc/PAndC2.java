@@ -61,12 +61,16 @@ public class PAndC2 {
         }
     }
 
+    /**
+     * 利用BlockingQueue实现生产者消费者模式
+     * @param args
+     */
     public static void main(String[] args) {
         PAndC2 pc = new PAndC2();
         new Thread(pc.new Producer()).start();
         new Thread(pc.new Consumer()).start();
-//        new Thread(pc.new Producer()).start();
-//        new Thread(pc.new Consumer()).start();
+        new Thread(pc.new Producer()).start();
+        new Thread(pc.new Consumer()).start();
 
     }
 }
